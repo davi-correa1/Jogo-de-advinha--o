@@ -8,6 +8,6 @@
     * Se você zerar suas tentativas, é _**Game Over!**_
 
 * ## Descrição do Jogo
-    * Este jogo de navegador foi meu _**primeiro projeto**_, criado com o _propósito de praticar minhas habilidades e novos aprendizados_ e foi desenvolvido por um _adolescente de 15 anos, sozinho, em 2015 com apenas alguns videos no YouTube_.
+    * Este jogo de navegador foi meu _**primeiro projeto**_, criado com o _propósito de praticar minhas habilidades e novos aprendizados_ e foi desenvolvido por um _adolescente de 15 anos, sozinho, em 2025 com apenas alguns videos no YouTube_.
     * O jogo possui alguns _bugs não corrigidos_, porém estou com outros projetos em mente, então não sei quando vou corrigi-los (se eu corrigir algum dia).
       
